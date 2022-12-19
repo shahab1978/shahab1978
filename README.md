@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahab1978
-- 👀 I’m interested in ...
+- 👀 I’m interested in IT.
 - 🌱 I’m currently learning ...
 
 <!---
